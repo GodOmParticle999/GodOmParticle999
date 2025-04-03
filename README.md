@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GodOmParticle999
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning react native.
+- 🌱 You can use my Free Android app that's VocabsKing-Daily New Words, on play store or you can also get it from https://godomparticle999.github.io/aboutVocabsKing/
 
 
 
